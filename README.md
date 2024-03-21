@@ -1,7 +1,8 @@
 ### vinzglobal_project
 
 
-##Assignment for Databricks
+## Assignment for Databricks
+
 Problem Statement: Design a data model for a scenario where customers place orders. Each order consists of multiple line items representing different products, quantities, and status. Once an order is completely delivered, it's marked as "Completed". Additionally, the status of each line item is tracked.
 
 ###Tasks:
